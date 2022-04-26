@@ -22,3 +22,6 @@ order3=356.95
 
 sum=order1+order2+order3
 print("total :",sum)
+
+kad="naber"
+print(kad)
